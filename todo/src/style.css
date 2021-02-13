@@ -1,0 +1,12 @@
+@font-face {
+font-family: "Caveat-Regular";  
+src: url("./Caveat-Regular.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal;
+ }
+
+.hello {
+  color: red;
+  font-family: 'Caveat-Regular';
+  font-size: 5em;
+}
